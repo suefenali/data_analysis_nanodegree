@@ -2,3 +2,5 @@ Material
 walkthrough_data_wrangling/*.jpg
 walkthrough_data_wrangling/*.txt
 walkthrough_data_wrangling/*.csv
+gathering_data/rt_html/
+.DS_Store
