@@ -5,3 +5,4 @@ walkthrough_data_wrangling/*.csv
 gathering_data/rt_html/
 .DS_Store
 gathering_data/ebert_reviews/
+gathering_data/bestofrt_posters/
