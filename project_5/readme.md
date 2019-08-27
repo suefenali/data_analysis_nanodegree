@@ -51,4 +51,7 @@ The ProsperScore that is the risk for the loan shows that better risk categories
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+The three main features (Borrower APR, Estimated Return and Estimated Loss) correlate in an interesting way. The loans with a better Estimated Return, also have a higher Borrower APR. However, for loans with a large Estimated Loss, even that the APR is great the return is very low. The risk pointed out by the ProsperRating has great correlation with Borrower APR and the EstimatedLoss. The shortest and longest Loans don’t have ProsperRating of HR, which is the worst one. As the risk increases, the APR and the Loss grow as well. For all loan terms, except the 36 months loans that have HR rating, the EstimatedReturn increases as the ProsperRating gets worse, and the Borrower APR gets higher. So, for loans with worst rating the investor may have a bigger return.
+
+Other findigs are that loans with smaller amounts are more risky to invest than those with larger amounts.
+Also, loans with better rating tend to not present a negative EstimatedReturn, however they don’t have the best return as well. On the other hand, the loans with worst Rating present the best and the worst EstimatedReturn. Loans with Rating equal to C or D, are the best one to invest. They are not the most risky, and have a good Estimated Return rate.
