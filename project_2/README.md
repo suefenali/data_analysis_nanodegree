@@ -5,7 +5,7 @@
 ## Dataset
 
 The income per person of a country is a measure of how much money is earned by an individual.
-This is used as an indicator of the living conditions and quality of life in that country ([Investopedia])(https://www.investopedia.com/terms/i/income-per-capita.asp). Many different variables can be related to the income amount of an area. The data selected to this analysis is provided by [Gapminder World](https://www.gapminder.org/data/), and it is composed by four main indicators.
+This is used as an indicator of the living conditions and quality of life in that country [(Investopedia)](https://www.investopedia.com/terms/i/income-per-capita.asp). Many different variables can be related to the income amount of an area. The data selected to this analysis is provided by [Gapminder World](https://www.gapminder.org/data/), and it is composed by four main indicators.
 
 **Mean years at school**
 The average number of years of school attended by men and women 25 years and older.
