@@ -3,7 +3,7 @@
 
 This aim of this project was to analyse the A/B test results going through three main parts:
 * A probability analysis
-* A hipothesis testing
+* A hypothesis testing
 * A regression model
 
 The file [analyze_ab_test_results](project_3/analyze_ab_test_results.ipynb) contais the whole analysis.
